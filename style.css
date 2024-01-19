@@ -1,0 +1,60 @@
+a {
+    color: black;
+    text-decoration: none;
+    margin: 5px;
+}
+.header{
+    margin: auto;
+    width: 1024px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+body{
+    margin: auto;
+    width: 1024px;
+
+    justify-content: space-between;
+    align-items: center;
+}
+header {
+    padding: 5px; 
+}
+ul{
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+.stundent {
+    color: rgb(30, 30, 30);
+   
+    padding: 5px;
+    width: 205px;
+    background-color: rgb(185, 185, 255);
+}
+.s {
+    font-size: 35px;
+}
+.s1 {
+    width: 400px;
+    font-size: 55px;
+}
+.rety {
+    display: flex;
+}
+.fetr {
+    display: flex;
+}
+.about {
+    justify-content: center;
+    width: 1024px;
+    padding: 10px;
+    margin: auto;
+    align-items: center;
+    background-color: rgb(255, 188, 188);
+}
+.about-me{
+    width: 550px;
+}
