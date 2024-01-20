@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap');
 a {
     color: black;
     text-decoration: none;
@@ -14,7 +15,7 @@ a {
 body{
     margin: auto;
     width: 1024px;
-
+    font-family: Quicksand;
     justify-content: space-between;
     align-items: center;
 }
@@ -57,4 +58,21 @@ ul{
 }
 .about-me{
     width: 550px;
+}
+.icon{
+    width: 55px;
+}
+.ref {
+    border-radius: 30px;
+    padding: 7px 20px;
+    color: rgb(3, 3, 3);
+    background-color: rgb(75, 251, 254);
+}
+.ar, .ra {
+    display: flex;
+}
+.p {
+    margin: 10px;
+    padding: 10px;
+    background-color: aquamarine;
 }
