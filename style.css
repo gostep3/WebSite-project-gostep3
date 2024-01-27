@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap');
+a {
+    color: black;
+    text-decoration: none;
+    margin: 5px;
+
+}
+.header{
+    margin: auto;
+    width: 1024px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+body{
+    margin: auto;
+    width: 1024px;
+    font-family: Quicksand;
+    justify-content: space-between;
+    align-items: center;
+}
+header {
+    padding: 5px; 
+}
+ul{
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+.stundent {
+    color: rgb(30, 30, 30);
+   
+    padding: 5px;
+    width: 238px;
+
+}
+.s {
+    font-size: 35px;
+}
+.s1 {
+    width: 400px;
+    font-size: 55px;
+}
+.rety {
+    display: flex;
+    margin: auto;
+
+}
+.gt {
+    padding: 10px;
+   
+}
+h3 {
+    width: 1024px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.love {
+    margin: 25px;
+    display: flex;
+    font-size: 25px;
+    width: 250px;
+    align-items: center;
+}
+.fetr {
+    display: flex;
+}
+.about {
+    justify-content: center;
+    width: 1024px;
+    padding: 10px;
+    margin: auto;
+    align-items: center;
+
+}
+.about-me{
+    width: 550px;
+}
+.icon{
+    width: 55px;
+}
+.ref {
+    border-radius: 30px;
+    padding: 7px 20px;
+    color: rgb(3, 3, 3);
+    background-color: rgb(75, 251, 254);
+}
+.ar, .ra {
+    display: flex;
+}
+.p {
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(127, 221, 255);
+}
+.main {
+    width: 1024px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}
+.name {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: azure;
+    margin: 20px;
+}
+.poem {
+    margin: 10px;
+}
+.ter {
+    width: 700px;
+    margin: auto;
+    
+}
+.scrin {
+    width: 300px;
+}
+.verse {
+    display: flex;
+    margin: 0 0 0 150px;
+}
+.verse1 {
+    display: flex;
+    margin: 0 0 0 100px;
+}
+.experience {
+    background-color: rgb(234, 255, 251);
+    width: 700px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+.itri {
+    padding: 20px;
+    background-color: rgb(206, 206, 255);
+}
+.Proffes{
+    width: 500px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+.fedr {
+    display: flex;
+}
+.Lang {
+    width: 550px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
