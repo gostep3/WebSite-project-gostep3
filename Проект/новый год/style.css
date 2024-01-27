@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Jura:wght@400;700&family=Mountains+of+Christmas&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+body {
+    cursor: grab;
+}
+
+
+header {
+    width: 1057px;
+    background-color: brown;
+    padding: 20px;
+    margin: auto;
+    color: aliceblue;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-family: Mountains of Christmas;
+    font-size: 30px;
+}
+main {
+    font-family: Pangolin;
+    border-radius: 0px 0px 10px 10px;
+    background-color: rgb(254, 101, 101);
+}
+.qwerty {
+    padding: 15px;
+    margin: 25px; 
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 59, 59); 
+    justify-content: center; 
+    flex-direction: column;
+    width: 250px;
+    align-items: center;
+    display: flex;
+    transition: 0.5s;
+    text-align: center;
+    border-radius: 10px 10px 10px 10px;
+}
+.qwerty:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 59, 59);
+
+}
+.first {
+    display: flex;
+}
+.fa-solid {
+    font-size: 50px;
+}
+header{
+    border-radius: 10px 10px 0px 0px;
+}
+
+
